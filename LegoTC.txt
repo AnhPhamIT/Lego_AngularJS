@@ -1,0 +1,69 @@
+logo.com
+ vertevaltu@desoz.comqwertyui890
+1. Navigate to https://tempail.com/ to get a temporary email address
+2. Open new tab, navigate to https://www.lego.com
+	- Select "EXPLORER" on welcome page
+	- On the top corner, left click on smiley icon. Then select "Create Account" from droplist
+	- Fulfil the required information
+		Email address: <temporary email address>
+		Password: <Password> 
+		Confirm Password: <Password>
+		Date of Birth: the 22nd of May, 2000
+		Country and region: Grenada/Carricou
+	- Stick on "Accept terms and conditions"
+	- Select "Next" button
+	- Back to temporary email tab
+		- Copy the activation code from temporary email then put to the Activate Code in Logo website
+		- Click "Next"
+		- Click "Close"
+	- Verify that new account has been created and logged in successfully
+3. After login, Scroll down to "New Sets"
+	- Select 2nd item in row
+	- Print out the name of item
+	- Click "Add to wishlist"
+	- Verify item has been correctly put into cart
+	- Click "Delete" button to remove the item out of the Wish List
+	- Search the deleted item from search box
+		- Sort by "Name"
+		- Sort again by "Relevance"
+		- On left vertical panel:
+			- Product type = Sets
+			- Age = 12+
+			- Price = 100$+
+	- Click on for 1st item.
+	- Add to Wish List with Limit =2
+		- Set "Limit" = 2
+		- Click on "ADD TO WISHLIST" button
+	- Verify item has been correctly added to WISHLIST
+	- On Wish List, click "Move to Bag"
+	- Verify item has been correctly added to MY BAG (on the top right corner)
+		- Click on "EDIT/CHECKOUT"
+		- Set QUALITY to 1
+	- Click on "SHOP" to back to homepage
+		- Click on "CHANGE REGION"
+		- Select "United Kingdom / English"
+		- Page is redirected to "Change shipping country to Great Britain"
+			- Select Actions = REMOVE
+			- Select ACCEPT button
+			- Verify MY BAG is empty
+	- Select "CATEGORIES" on top panel
+		- Select "Animals" drop drop-list
+		- Click "Add to Wish List" for first 6 items
+		- Verify WISH LIST contains sum of all items quantity
+			- In WISH LIST page
+				- Date added = Low Price 
+				- Verify all items will be sorted based on price. Low price is displayed first, High price is displayed later
+				- Move all from Wishlist items to Bag by click on "Move to Bag" button
+4. Open new tab with "https://shop.lego.com"
+	- Verify the url is redirected to "https://shop.lego.com/en-GB/"
+	- On "Our top-selling exclusives", click on ">" icon on the right side
+	- Click on the item has the highest price
+	- Click on "Add To Bag" button
+	- Verify MY BAG contains 7 items with correct detail
+5. Back to previous tab
+		- Refresh page
+		- Print out detail price and item
+		- Print all Order Total
+6. Click on "ACCOUNT" button
+		- Select Logout
+		- Verify Logout successfully
