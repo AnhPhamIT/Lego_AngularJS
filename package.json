@@ -18,7 +18,7 @@
     "ts-node": "^8.1.0",
     "typescript": "^3.4.4",
     "dateformat": "^3.0.3",
-    "exceljs": "^1.9.0",
+    "exceljs": "^1.15.0",
     "jasmine-spec-reporter": "^4.2.1",
     "protractor-beautiful-reporter": "^1.2.7",
     "protractor-html-reporter-2": "^1.0.4"
